@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="646"/>
+		<item key="DIALOG_Y_ORIGIN" value="349"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="&lt;%-- &lt;%--   &lt;%@ include file=&quot;/commons/admin/header.jsp&quot;%&gt; --%&gt; --%&gt;"/>
+		<list key="findhistory">
+			<item value="&lt;%-- &lt;%--   &lt;%@ include file=&quot;/commons/admin/header.jsp&quot;%&gt; --%&gt; --%&gt;"/>
+			<item value=" &lt;%--  &lt;%@ include file=&quot;/commons/admin/header.jsp&quot;%&gt; --%&gt;"/>
+			<item value="vn.iotstart"/>
+			<item value="cateDao"/>
+			<item value="cate_id"/>
+			<item value="icons"/>
+			<item value="cate_name"/>
+			<item value="login"/>
+		</list>
+		<list key="replacehistory">
+			<item value="Tuan_3"/>
+			<item value="categoryDao"/>
+			<item value="categoryid"/>
+			<item value="images"/>
+			<item value="categoryname"/>
+			<item value="CategoryModel"/>
+			<item value="setCategoryimages"/>
+			<item value="CategoryModels"/>
+			<item value="setCategoryid"/>
+			<item value="getCategoryimages"/>
+			<item value="getCategoryname"/>
+			<item value="getCategoryid"/>
+			<item value="category"/>
+			<item value="setCategoryname"/>
+			<item value="${URL}"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1205"/>
+		<item key="DIALOG_Y_ORIGIN" value="199"/>
+		<item key="DIALOG_WIDTH" value="322"/>
+		<item key="DIALOG_HEIGHT" value="391"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
